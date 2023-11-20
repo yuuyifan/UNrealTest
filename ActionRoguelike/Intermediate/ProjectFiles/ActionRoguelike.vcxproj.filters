@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRoguelike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRoguelikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActionRoguelike">
+      <UniqueIdentifier>{F619A369-E6AA-3204-B397-873B8139B83B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRoguelike\ActionRoguelike.Build.cs">
+      <Filter>Source\ActionRoguelike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionRoguelike\ActionRoguelike.cpp">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionRoguelike\ActionRoguelike.h">
+      <Filter>Source\ActionRoguelike</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRoguelike\Private">
+      <UniqueIdentifier>{F727DE6F-0A97-355A-AB96-C32A7B2E0583}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRoguelike\Private\SCharacter.cpp">
+      <Filter>Source\ActionRoguelike\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRoguelike\Public">
+      <UniqueIdentifier>{BA804FD1-136B-3EFF-9FE0-790630ED948D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRoguelike\Public\SCharacter.h">
+      <Filter>Source\ActionRoguelike\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

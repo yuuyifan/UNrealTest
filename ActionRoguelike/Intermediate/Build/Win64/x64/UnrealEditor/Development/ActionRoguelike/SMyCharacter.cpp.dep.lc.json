@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\unrealtest\\actionroguelike\\source\\actionroguelike\\private\\smycharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\unrealtest\\actionroguelike\\intermediate\\build\\win64\\x64\\actionroguelikeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\github\\unrealtest\\actionroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionroguelike\\definitions.actionroguelike.h",
+            "e:\\github\\unrealtest\\actionroguelike\\source\\actionroguelike\\public\\smycharacter.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\github\\unrealtest\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\smycharacter.generated.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "d:\\ue\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\ue\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

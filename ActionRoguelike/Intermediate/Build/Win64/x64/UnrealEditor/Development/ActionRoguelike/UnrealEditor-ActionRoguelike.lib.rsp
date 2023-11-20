@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActionRoguelike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\ActionRoguelikeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\ActionRoguelike.init.gen.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\SCharacter.gen.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\SMyCharacter.gen.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\ActionRoguelike.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\SCharacter.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\SMyCharacter.cpp.obj"
+"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\Default.rc2.res"
+/OUT:"E:\GitHub\UNrealTest\ActionRoguelike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRoguelike\UnrealEditor-ActionRoguelike.lib"
